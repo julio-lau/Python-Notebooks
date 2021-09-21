@@ -6,7 +6,8 @@ This repository is trying to be a place where I put some content based on some b
 Hope you like it &nbsp; '-'/
 
 # Doing now
-- Finishing code based on chapter 2 and 3 of Building Machine Learning Systems with Python
+- Finishing code based on chapter 2 and 3 of Building Machine Learning Systems with Python book
+- Starting on Introduction to clustering
 
 # Reference
 - Building Machine Learning Systems with Python - Luis Pedro Coelho & Willi Richert
